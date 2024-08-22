@@ -30,8 +30,6 @@ Enredo: O jogo segue a jornada de uma jovem aspirante a designer de moda que com
 
 
 2. Estrutura do Jogo
--
-
 * Início: A Vida no Campo
 
 Introdução: A protagonista vive em uma fazenda e tem um sonho de se tornar uma estilista. A história começa com ela se preparando para sua grande mudança.
