@@ -23,9 +23,6 @@ Não há orçamento.
 
 ## Conceito e Enredo
 
-
-# Fashion Dreamer: From Farm to Fame
-
 **Fashion Dreamer: From Farm to Fame** é um jogo de web que segue a jornada de uma jovem aspirante a designer de moda, que começa em uma pequena cidade rural e, através de sua determinação e habilidades, transforma uma simples barraquinha em uma grande marca de moda na cidade grande.
 
 ## 📜 Conceito e Enredo
