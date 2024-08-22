@@ -2,15 +2,18 @@
 Grupo: Beatriz Babinski, Juliana Azeredo Hall, Larissa Nobrega e Maria da Graça Mello 
 
 ## 5W2H
+
 ### Onde?
+Deverá ser feito no Godot para desenvolver o aplicativo.
 
 ### Quem?
 Farm to Fame
 
 ### O que?
-
+Desenvolvimento de um servidor na web.
 
 ### Por que?
+Foi pedido para a gente desenvolver um jogo.
 
 ### Quando?
 Trabalho deve ser feito até o final do semestre.
