@@ -21,9 +21,6 @@ Trabalho deve ser feito até o final do semestre.
 ### Quanto?
 Não há orçamento.
 
-
-**Fashion Dreamer: From Farm to Fame** é um jogo de web que segue a jornada de uma jovem aspirante a designer de moda, que começa em uma pequena cidade rural e, através de sua determinação e habilidades, transforma uma simples barraquinha em uma grande marca de moda na cidade grande.
-
 ## 📜 Conceito e Enredo
 
 O jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
