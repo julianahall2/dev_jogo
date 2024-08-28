@@ -15,7 +15,7 @@ Deverá ser feito no Godot para desenvolver o aplicativo.
 Farm to Fame
 
 ### O que?
-Desenvolvimento de um servidor na web.
+Desenvolvimento de um jogo online onde o jogador controla uma jovem empreendedora que busca criar e expandir sua própria loja de roupas, começando com uma pequena barraca em uma feira local e progredindo até criar uma marca de sucesso no mercado da moda.
 
 ### Por que?
 Foi pedido para a gente desenvolver um jogo.
