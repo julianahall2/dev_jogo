@@ -7,27 +7,28 @@
 
 
 # 5W2H
+### What (O que será feito?):
+Desenvolvimento de um jogo sobre a história de uma jovem que deseja criar sua própria loja de roupas.
 
-### Onde?
-Deverá ser feito no Godot para desenvolver o aplicativo.
+###  Why (Por que será feito?):
+Para contar uma história inspiradora sobre empreendedorismo e perseverança, enquanto entretém e envolve os jogadores no mundo da moda e dos negócios.
 
-### Quem?
-Farm to Fame
+###  Who (Quem fará?):
+A protagonista do jogo, uma jovem sonhadora e determinada, que se muda para uma cidade grande para realizar seu sonho de ter uma loja de roupas.
 
-### O que?
-Desenvolvimento de um jogo online onde o jogador controla uma jovem empreendedora que busca criar e expandir sua própria loja de roupas, começando com uma pequena barraca em uma feira local e progredindo até criar uma marca de sucesso no mercado da moda.
+###  Where (Onde será feito?):
+O jogo se passa em uma cidade grande, onde a jovem começa seu negócio em uma feira local e, ao longo do tempo, expande para novas áreas e mercados.
 
-### Por que?
-Foi pedido para a gente desenvolver um jogo.
+###  When (Quando será feito?):
+A história do jogo começa com a mudança da jovem para a cidade grande e se desenrola ao longo do tempo, conforme ela trabalha para melhorar e expandir seu negócio.
 
-### Quando?
-Trabalho deve ser feito até o final do semestre.
+###  How (Como será feito?):
+Através de vendas na barraquinha, melhorias constantes nos produtos e estratégias de marketing, a jovem consegue expandir seu negócio e criar uma marca de sucesso no mercado da moda.
 
-### Como?
+###  How much (Quanto custará?):
+O custo não é especificado diretamente na história, mas implica em investimentos em materiais, melhorias na barraquinha, expansão do negócio, e potencialmente, marketing e branding.
 
 
-### Quanto?
-Não há orçamento.
 
 ## 📜 Conceito e Enredo
 
@@ -99,33 +100,3 @@ O jogo conta a história de uma jovem que sonha em criar sua própria loja de ro
 - **Novas Funcionalidades:** Adicionar novas roupas, eventos e desafios.
 - **Feedback dos Jogadores:** Ajustar e melhorar o jogo com base no feedback dos jogadores.
   
-
-
-
-1. What (O que será feito?):
-Desenvolvimento de um jogo sobre a história de uma jovem que deseja criar sua própria loja de roupas.
-
-2. Why (Por que será feito?):
-Para contar uma história inspiradora sobre empreendedorismo e perseverança, enquanto entretém e envolve os jogadores no mundo da moda e dos negócios.
-
-3. Who (Quem fará?):
-A protagonista do jogo, uma jovem sonhadora e determinada, que se muda para uma cidade grande para realizar seu sonho de ter uma loja de roupas.
-
-4. Where (Onde será feito?):
-O jogo se passa em uma cidade grande, onde a jovem começa seu negócio em uma feira local e, ao longo do tempo, expande para novas áreas e mercados.
-
-5. When (Quando será feito?):
-A história do jogo começa com a mudança da jovem para a cidade grande e se desenrola ao longo do tempo, conforme ela trabalha para melhorar e expandir seu negócio.
-
-6. How (Como será feito?):
-Através de vendas na barraquinha, melhorias constantes nos produtos e estratégias de marketing, a jovem consegue expandir seu negócio e criar uma marca de sucesso no mercado da moda.
-
-7. How much (Quanto custará?):
-O custo não é especificado diretamente na história, mas implica em investimentos em materiais, melhorias na barraquinha, expansão do negócio, e potencialmente, marketing e branding.
-
-
-
-
-
-
-
