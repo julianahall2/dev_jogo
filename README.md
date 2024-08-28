@@ -32,7 +32,7 @@ O custo não é especificado diretamente na história, mas implica em investimen
 
 ## 📜 Conceito e Enredo
 
-O jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
+Farm to Fame, o jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
 
 ## 🕹️ Estrutura do Jogo
 
