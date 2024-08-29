@@ -5,6 +5,8 @@
 * Larissa Nobrega
 * Maria da Graça Mello 
 
+Links: https://miro.com/welcomeonboard/T2lEZmdmd1E0RmJDNkJqQ3p1QndPMlUwTllObWo5U2M1bm5tZ1hvbFFQN0hNSHFSS2dSck9DQTVqOFo2cHdXMHwzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=308832880372
+
 
 # 5W2H
 ### What (O que será feito?):
