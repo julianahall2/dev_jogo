@@ -8,6 +8,7 @@
 Links: 
 - https://miro.com/welcomeonboard/Rmd0VUZMU3YzVjdLQVVMWjhQR3ZOTU8zVVdZZEI5eTlRT1VsTnF1V1huS3R1d0J5YjNwUVdwNHdKbk84VDU5V3wzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=870760400791
 - https://gitlab.com/EduardoMangeli/godot-basico-for-loop/-/blob/main/quadrado.png?ref_type=heads'
+- https://trello.com/invite/b/66d114e03e4880cfe3461478/ATTId6487fc256729e3e555377b68cde7313C6F7DBD2/desenv-jogos
 
 
 # 5W2H
