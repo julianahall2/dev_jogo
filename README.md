@@ -1,32 +1,42 @@
 # Desenvolvimento de Jogos 
-Grupo: Beatriz Babinski, Juliana Azeredo Hall, Larissa Nobrega e Maria da Graça Mello 
+### Grupo: 
+* Beatriz Babinski
+* Juliana Azeredo Hall
+* Larissa Nobrega
+* Maria da Graça Mello 
 
-## 5W2H
-
-### Onde?
-Deverá ser feito no Godot para desenvolver o aplicativo.
-
-### Quem?
-Farm to Fame
-
-### O que?
-Desenvolvimento de um servidor na web.
-
-### Por que?
-Foi pedido para a gente desenvolver um jogo.
-
-### Quando?
-Trabalho deve ser feito até o final do semestre.
-
-### Como?
+Links: 
+- https://miro.com/welcomeonboard/Rmd0VUZMU3YzVjdLQVVMWjhQR3ZOTU8zVVdZZEI5eTlRT1VsTnF1V1huS3R1d0J5YjNwUVdwNHdKbk84VDU5V3wzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=870760400791
+- https://gitlab.com/EduardoMangeli/godot-basico-for-loop/-/blob/main/quadrado.png?ref_type=heads'
 
 
-### Quanto?
-Não há orçamento.
+# 5W2H
+### What (O que será feito?):
+Desenvolvimento de um jogo sobre a história de uma jovem que deseja criar sua própria loja de roupas.
+
+###  Why (Por que será feito?):
+Para contar uma história inspiradora sobre empreendedorismo e perseverança, enquanto entretém e envolve os jogadores no mundo da moda e dos negócios.
+
+###  Who (Quem fará?):
+A protagonista do jogo, uma jovem sonhadora e determinada, que se muda para uma cidade grande para realizar seu sonho de ter uma loja de roupas.
+
+###  Where (Onde será feito?):
+O jogo se passa em uma cidade grande, onde a jovem começa seu negócio em uma feira local e, ao longo do tempo, expande para novas áreas e mercados.
+
+###  When (Quando será feito?):
+A história do jogo começa com a mudança da jovem para a cidade grande e se desenrola ao longo do tempo, conforme ela trabalha para melhorar e expandir seu negócio.
+
+###  How (Como será feito?):
+Através de vendas na barraquinha, melhorias constantes nos produtos e estratégias de marketing, a jovem consegue expandir seu negócio e criar uma marca de sucesso no mercado da moda.
+
+###  How much (Quanto custará?):
+O custo não é especificado diretamente na história, mas implica em investimentos em materiais, melhorias na barraquinha, expansão do negócio, e potencialmente, marketing e branding.
+
+
 
 ## 📜 Conceito e Enredo
 
-O jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
+Farm to Fame, o jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
 
 ## 🕹️ Estrutura do Jogo
 
@@ -93,3 +103,4 @@ O jogo conta a história de uma jovem que sonha em criar sua própria loja de ro
 ### 2. Atualizações e Expansões
 - **Novas Funcionalidades:** Adicionar novas roupas, eventos e desafios.
 - **Feedback dos Jogadores:** Ajustar e melhorar o jogo com base no feedback dos jogadores.
+  
