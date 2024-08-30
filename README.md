@@ -6,7 +6,7 @@
 * Maria da Graça Mello 
 
 Links: https://miro.com/welcomeonboard/T2lEZmdmd1E0RmJDNkJqQ3p1QndPMlUwTllObWo5U2M1bm5tZ1hvbFFQN0hNSHFSS2dSck9DQTVqOFo2cHdXMHwzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=308832880372
-https://gitlab.com/EduardoMangeli/godot-basico-for-loop/-/blob/main/quadrado.png?ref_type=heads'
+-https://gitlab.com/EduardoMangeli/godot-basico-for-loop/-/blob/main/quadrado.png?ref_type=heads'
 
 
 # 5W2H
