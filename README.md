@@ -12,31 +12,31 @@ Links:
 
 # 5W2H
 ### What (O que será feito?):
-Desenvolvimento de um jogo sobre a história de uma jovem que deseja criar sua própria loja de roupas.
+Desenvolvimento de um jogo de plataforma 2D básico chamado "Into the jugle", onde o jogador controla um personagem que percorre níveis, salta entre plataformas, coleta itens, evita inimigos e obstáculos, e progride até o final de cada nível.
 
 ###  Why (Por que será feito?):
-Para contar uma história inspiradora sobre empreendedorismo e perseverança, enquanto entretém e envolve os jogadores no mundo da moda e dos negócios.
+Criar um jogo divertido e desafiador para jogadores casuais que gostam de jogos de plataforma clássicos.
 
 ###  Who (Quem fará?):
-A protagonista do jogo, uma jovem sonhadora e determinada, que se muda para uma cidade grande para realizar seu sonho de ter uma loja de roupas.
+Um aventureiro atrás de um tesouro mágico que vai mudar a vida dele e de sua família para sempre!
 
 ###  Where (Onde será feito?):
-O jogo se passa em uma cidade grande, onde a jovem começa seu negócio em uma feira local e, ao longo do tempo, expande para novas áreas e mercados.
+O jogo se passa em uma variedade de ambientes exóticos e misteriosos, como florestas encantadas, cavernas profundas, templos antigos, e ruínas mágicas. Cada nível representa uma parte diferente do mundo que o explorador deve atravessar em sua jornada em busca do tesouro mágico.
 
 ###  When (Quando será feito?):
-A história do jogo começa com a mudança da jovem para a cidade grande e se desenrola ao longo do tempo, conforme ela trabalha para melhorar e expandir seu negócio.
+A aventura do explorador se desenrola ao longo de um tempo indeterminado, com cada nível representando um novo estágio em sua busca pelo tesouro mágico. O jogo apresentará a passagem do tempo através de mudanças de cenário, como o avanço do dia para a noite e mudança de estações.
 
 ###  How (Como será feito?):
-Através de vendas na barraquinha, melhorias constantes nos produtos e estratégias de marketing, a jovem consegue expandir seu negócio e criar uma marca de sucesso no mercado da moda.
+O jogador avançará pelos níveis superando uma série de desafios, como evitar armadilhas, derrotar inimigos, resolver enigmas, e navegar por ambientes perigosos. Cada fase exigirá que o jogador utilize as habilidades do explorador, como pular entre plataformas, usar ferramentas especiais, ou interagir com objetos mágicos para abrir caminhos secretos.
 
 ###  How much (Quanto custará?):
-O custo não é especificado diretamente na história, mas implica em investimentos em materiais, melhorias na barraquinha, expansão do negócio, e potencialmente, marketing e branding.
+O custo não é especificado diretamente na história.
 
 
 
 ## 📜 Conceito e Enredo
 
-Farm to Fame, o jogo conta a história de uma jovem que sonha em criar sua própria loja de roupas. Ela se muda para a cidade grande para abrir uma pequena barraquinha em uma feira local. Através de vendas, melhorias e expansão, ela trabalha para criar uma marca de sucesso e se destacar no competitivo mercado da moda.
+Into the jungle é um jogo de plataforma em 2D onde o jogador controla um personagem que deve percorrer vários níveis, saltando entre plataformas, evitando obstáculos e inimigos, e coletando itens espalhados pelo caminho. O objetivo final é chegar ao final de cada nível, onde o jogador poderá avançar para o próximo estágio.
 
 ## 🕹️ Estrutura do Jogo
 
