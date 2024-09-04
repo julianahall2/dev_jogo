@@ -12,7 +12,7 @@ Links:
 
 # 5W2H
 ### What (O que será feito?):
-Desenvolvimento de um jogo de plataforma 2D básico chamado "Into the jugle", onde o jogador controla um personagem que percorre níveis, salta entre plataformas, coleta itens, evita inimigos e obstáculos, e progride até o final de cada nível.
+Desenvolvimento de um jogo de plataforma 2D básico chamado "Into the jugle", onde o jogador controla um personagem que percorre níveis, salta entre plataformas, resolve enigmas, coleta itens, evita inimigos e obstáculos, e progride até o final de cada nível.
 
 ###  Why (Por que será feito?):
 Criar um jogo divertido e desafiador para jogadores casuais que gostam de jogos de plataforma clássicos.
@@ -36,7 +36,7 @@ O custo não é especificado diretamente na história.
 
 ## 📜 Conceito e Enredo
 
-Into the jungle é um jogo de plataforma em 2D onde o jogador controla um personagem que deve percorrer vários níveis, saltando entre plataformas, evitando obstáculos e inimigos, e coletando itens espalhados pelo caminho. O objetivo final é chegar ao final de cada nível, onde o jogador poderá avançar para o próximo estágio.
+Into the jungle é um jogo de plataforma em 2D onde o jogador controla um personagem que deve percorrer vários níveis, saltando entre plataformas, evitando obstáculos e inimigos, coletando itens espalhados pelo caminho e resolvendo pequenos enigmas. O objetivo final é chegar ao final de cada nível, onde o jogador poderá avançar para o próximo estágio.
 
 ## 🕹️ Estrutura do Jogo
 
@@ -55,13 +55,15 @@ Into the jungle é um jogo de plataforma em 2D onde o jogador controla um person
 
 ## 🧩 Desafios
 
-- **Moedas:**Espalhadas pelo nível, as moedas dão pontos ao jogador. Coletar todas as moedas de um nível pode desbloquear recompensas.
+- **Moedas:** Espalhadas pelo nível, as moedas dão pontos ao jogador. Coletar todas as moedas de um nível pode desbloquear recompensas.
 - **Chaves:**  Necessárias para abrir portas que dão acesso a novas áreas ou ao final do nível.
 - **Power-ups:** Investir em melhorias para a loja e lançar novas coleções de roupas.
 - **Espinhos:** Colocados em superfícies ou no chão, causam dano ao jogador se tocados.
 - **Buracos:** Se o jogador cair, ele perde uma vida ou retorna ao início do nível.
 - **Lava:** Áreas onde o jogador morre instantaneamente se cair nelas, exigindo precisão nos pulos.
 - **Inimigos Básicos:** Simples inimigos que andam de um lado para o outro. O jogador pode derrotá-los pulando sobre eles.
+- **Coleção de Relíquias:** Ao longo do caminho, o jogador pode coletar pequenas relíquias que aumentam a pontuação final.
+
 
 ## 🎨 Aspectos Visuais e Estilo
 
