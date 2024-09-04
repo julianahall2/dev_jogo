@@ -40,35 +40,28 @@ Into the jungle é um jogo de plataforma em 2D onde o jogador controla um person
 
 ## 🕹️ Estrutura do Jogo
 
-### 1. Início: A Vida no Campo
-- **Introdução:** A protagonista vive em uma fazenda e sonha em ser uma estilista.
-- **Objetivos Iniciais:** Vender roupas básicas na feira local e reunir fundos para a mudança.
+### 1. Início: Floresta Encantada
+- Nível introdutório com plataformas básicas, inimigos simples e colecionáveis.
 
-### 2. Mudança para a Cidade
-- **Introdução ao Novo Ambiente:** A protagonista chega à cidade grande e aluga um pequeno espaço para sua barraquinha.
-- **Desafios Iniciais:** Competir com outros vendedores, descobrir fornecedores e entender o mercado da moda.
 
-### 3. Expansão do Negócio
-- **Melhorias:** Expandir a barraquinha para uma loja maior, melhorar a qualidade das roupas e investir em marketing.
-- **Reconhecimento:** Ganhar aceitação dos clientes e aumentar a popularidade da marca.
+### 2. Caverna Profunda
+- Introduz plataformas móveis, armadilhas e obstáculos.
 
-### 4. Consolidação e Sucesso
-- **Desenvolvimento de Marca:** Criar uma identidade de marca, lançar coleções exclusivas e abrir lojas em diferentes partes da cidade.
-- **Desafios e Eventos:** Participar de eventos de moda e enfrentar concorrentes e desafios de gestão.
+### 3. Templo Antigo
+- Adiciona enigmas, inimigos mais desafiadores e plataformas que quebram.
 
-## 🧩 Jogabilidade
+### 4. Ruínas Mágicas
+- Nível avançado com desafios complexos, inimigos fortes e mecânicas especiais.
 
-### 1. Missões e Tarefas
-- **Venda e Gestão:** Gerenciar a barraquinha ou loja, atender clientes, e ajustar preços e estoque.
-- **Criação de Moda:** Projetar e criar roupas com uma interface simples de design.
+## 🧩 Desafios
 
-### 2. Expansão e Melhoria
-- **Atualizações:** Investir em melhorias para a loja e lançar novas coleções de roupas.
-- **Eventos Especiais:** Promover eventos para atrair mais clientes.
-
-### 3. Interação e Relacionamentos
-- **Clientes e Fornecedores:** Interagir com personagens que têm preferências e desafios específicos.
-- **Parcerias:** Estabelecer parcerias para aumentar o alcance e a visibilidade da marca.
+- **Moedas:**Espalhadas pelo nível, as moedas dão pontos ao jogador. Coletar todas as moedas de um nível pode desbloquear recompensas.
+- **Chaves:**  Necessárias para abrir portas que dão acesso a novas áreas ou ao final do nível.
+- **Power-ups:** Investir em melhorias para a loja e lançar novas coleções de roupas.
+- **Espinhos:** Colocados em superfícies ou no chão, causam dano ao jogador se tocados.
+- **Buracos:** Se o jogador cair, ele perde uma vida ou retorna ao início do nível.
+- **Lava:** Áreas onde o jogador morre instantaneamente se cair nelas, exigindo precisão nos pulos.
+- **Inimigos Básicos:** Simples inimigos que andam de um lado para o outro. O jogador pode derrotá-los pulando sobre eles.
 
 ## 🎨 Aspectos Visuais e Estilo
 
@@ -82,25 +75,13 @@ Into the jungle é um jogo de plataforma em 2D onde o jogador controla um person
 
 ## ⚙️ Mecânicas e Funcionalidades
 
-### 1. Sistema de Economia
-- **Monetização:** Ganhar dinheiro com vendas, promoções e eventos.
-- **Orçamento e Planejamento:** Gerenciar orçamento para compras e melhorias.
+### 1. Movimento do personagem
+- **Movimentação Horizontal:** O personagem pode se mover para a esquerda e para a direita.
+- **Pulo:** O pulo terá uma altura fixa, mas poderemos adicionar mecânicas de pulo duplo ou pulo mais alto ao segurar a tecla por mais tempo.
 
-### 2. Desafios e Eventos Aleatórios
-- **Concorrência:** Competir com outras marcas e lidar com situações imprevistas.
-- **Eventos de Moda:** Participar de desfiles e feiras para oportunidades e desafios.
+### 2. Plataformas
+- **Plataformas Fixas:** Plataformas que permanecem estáticas e servem como base para o personagem se movimentar.
+- **Plataformas Móveis:**  Algumas plataformas podem se mover horizontal ou verticalmente, exigindo do jogador um bom timing para pular de uma para outra.
+- **Plataformas Quebráveis:** Plataformas que desaparecem após um tempo ou após o personagem pisar nelas.
 
-### 3. Progressão e Recompensas
-- **Níveis e Desbloqueios:** Avançar para desbloquear novas roupas, melhorias e expansões.
-- **Reconhecimento:** Ganhar prêmios e conquistas para aumentar a reputação da marca.
-
-## 🔧 Recursos e Suporte
-
-### 1. Suporte ao Jogador
-- **Tutoriais:** Guias para ajudar os jogadores a entender a jogabilidade e mecânicas.
-- **Comunidade:** Fórum para compartilhar dicas e experiências.
-
-### 2. Atualizações e Expansões
-- **Novas Funcionalidades:** Adicionar novas roupas, eventos e desafios.
-- **Feedback dos Jogadores:** Ajustar e melhorar o jogo com base no feedback dos jogadores.
   
