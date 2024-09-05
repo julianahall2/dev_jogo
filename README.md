@@ -7,6 +7,7 @@
 
 Links: 
 - https://miro.com/welcomeonboard/Rmd0VUZMU3YzVjdLQVVMWjhQR3ZOTU8zVVdZZEI5eTlRT1VsTnF1V1huS3R1d0J5YjNwUVdwNHdKbk84VDU5V3wzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=870760400791
+- https://miro.com/welcomeonboard/VHZTbFZnYUY5WElrM3g5eENSbmJvaUF4V2Rpa2g1QXRmSHNzRUpibmpKeVlwdXdNSG5Va1M4N3BYZDllSHFjVHwzNDU4NzY0NTg0NTU2MjE2MzM1fDI=?share_link_id=307650068202
 - https://gitlab.com/EduardoMangeli/godot-basico-for-loop/-/blob/main/quadrado.png?ref_type=heads'
 
 
