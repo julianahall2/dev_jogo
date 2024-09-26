@@ -22,7 +22,7 @@ Criar um jogo divertido e desafiador para jogadores casuais que gostam de jogos 
 Um aventureiro explorando e tentando sobreviver utilizando suas habilidades para enfrentar desafios e se adaptar ao ambiente.
 
 ###  Where (Onde será feito?):
-O jogo se passa através da mudança de cenários. Cada nível representa uma parte diferente do mundo que o explorador deve atravessar em sua jornada de exploração, passando por ambientes de selva, neve e lavas, enquanto busca tesouros e acumula moedas ao longo do caminho.
+O jogo se passa através da mudança de cenários. Cada nível representa uma parte diferente do mundo que o explorador deve atravessar em sua jornada de exploração, passando por ambientes de floresta, neve e lavas, enquanto busca tesouros e acumula moedas ao longo do caminho.
 
 ###  When (Quando será feito?):
 A aventura do explorador se desenrola ao longo de um tempo indeterminado, com cada nível representando um novo estágio enquanto luta por sobrevivência ao longo de sua jornada de exploração.
