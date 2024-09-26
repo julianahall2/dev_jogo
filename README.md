@@ -13,7 +13,7 @@ Links:
 
 # 5W2H
 ### What (O que será feito?):
-Desenvolvimento de um jogo de plataforma 2D básico chamado "Into the jugle", onde o jogador controla um personagem que percorre níveis, salta entre plataformas, coleta moedas, evita inimigos e obstáculos, e progride até o final de cada nível.
+Desenvolvimento de um jogo de plataforma 2D básico chamado "Expedição à Terra Selvagem", onde o jogador controla um personagem que percorre níveis, salta entre plataformas, coleta moedas, evita inimigos e obstáculos, e progride até o final de cada nível.
 
 ###  Why (Por que será feito?):
 Criar um jogo divertido e desafiador para jogadores casuais que gostam de jogos de plataforma clássicos.
