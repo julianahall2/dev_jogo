@@ -1,0 +1,60 @@
+[gd_scene load_steps=4 format=3 uid="uid://bwags8wi8putv"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_j1e67"]
+bg_color = Color(0.571508, 0.738477, 0.584967, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_pqvlh"]
+bg_color = Color(0.572549, 0.737255, 0.584314, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wudfg"]
+bg_color = Color(0.572549, 0.737255, 0.584314, 1)
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.365885
+anchor_top = 0.446759
+anchor_right = 0.634115
+anchor_bottom = 0.553241
+offset_bottom = 3.05176e-05
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 35
+theme_override_styles/normal = SubResource("StyleBoxFlat_j1e67")
+text = "CREDITS"
+metadata/_edit_use_anchors_ = true
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.368056
+anchor_top = 0.578704
+anchor_right = 0.636285
+anchor_bottom = 0.685185
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 35
+theme_override_styles/normal = SubResource("StyleBoxFlat_pqvlh")
+text = "QUIT GAME"
+metadata/_edit_use_anchors_ = true
+
+[node name="Button3" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.366319
+anchor_top = 0.319444
+anchor_right = 0.634549
+anchor_bottom = 0.425926
+grow_horizontal = 2
+theme_override_font_sizes/font_size = 35
+theme_override_styles/normal = SubResource("StyleBoxFlat_wudfg")
+text = "START"
+metadata/_edit_use_anchors_ = true
