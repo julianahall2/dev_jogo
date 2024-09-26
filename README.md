@@ -37,7 +37,7 @@ O custo não é especificado diretamente na história.
 
 ## 📜 Conceito e Enredo
 
-Expedição à Terra Selvagem é um jogo de plataforma em 2D onde o jogador controla um personagem que deve percorrer vários níveis, saltando entre plataformas, evitando obstáculos e inimigos, coletando itens espalhados pelo caminho. O objetivo final é chegar ao final de cada nível, onde o jogador poderá avançar para o próximo estágio.
+Escape é um jogo de plataforma em 2D onde o jogador controla um personagem que deve percorrer vários níveis, saltando entre plataformas, evitando obstáculos e inimigos, coletando itens espalhados pelo caminho. O objetivo final é chegar ao final de cada nível, onde o jogador poderá avançar para o próximo estágio.
 
 ## 🕹️ Estrutura do Jogo
 
